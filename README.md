@@ -1,8 +1,9 @@
-# React + Vite
+# Advice Generator React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VISIT - https://advicefromsush.netlify.app/
 
-Currently, two official plugins are available:
+Nothing special, I was learning REACT JS recently and just created this prohject to brush up my react skills. Writing css was still a big headache to me this time too lol.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hope you enjoy!
+
+Anddd don't forget to give me suggestions!!
